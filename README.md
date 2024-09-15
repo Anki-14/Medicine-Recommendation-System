@@ -15,7 +15,7 @@ Installation
 Clone the Repository
 
 
-git clone https://github.com/Anki-14/Medicine-Recommendation_System.git
+git clone https://github.com/Anki-14/Medicine-Recommendation-System.git
 cd health-care-center
 Set Up a Virtual Environment
 
