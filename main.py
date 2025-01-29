@@ -13,7 +13,7 @@ diets = pd.read_csv("Datasets1/diets.csv")
 
 #load model:
 svc = pickle.load(open('Models/svc.pkl', 'rb'))
-app = Flask(__name__)
+app = Flask(__name__, template_folder='Templates')
 
 #============================================================
 # custome and helping functions
